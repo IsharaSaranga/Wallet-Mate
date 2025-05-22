@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">MyApplication1</string>
+    <string name="app_name">Wallet Mate</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="transaction_title">Transaction Title</string>
+    <string name="amount">Amount</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="edit">Edit</string>
+    <string name="manage_your_wallet">Manage your Wallet</string>
+    <string name="view_transactions">View Transactions</string>
+    <string name="spent">Spent: -</string>
+    <string name="date">Date</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="add_funds">Add Funds</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="set_monthly_budget">Set Monthly Budget</string>
+    <string name="budget_amount">Budget Amount</string>
+    <string name="reset_date">Reset Date</string>
+    <string name="save_budget">Save Budget</string>
+    <string name="settings">Settings</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="clear_all_data">Clear All Data</string>
 </resources>

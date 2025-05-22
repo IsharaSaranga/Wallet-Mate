@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_options">
+        <item>LKR (Rs.)</item>
+        <item>USD ($)</item>
+        <item>JPY (¥)</item>
+        <item>GBP (£)</item>
+    </string-array>
+</resources>

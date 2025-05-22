@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyApplication1"
+rootProject.name = "Wallet Mate"
 include(":app")
- 

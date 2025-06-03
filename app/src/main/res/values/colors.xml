@@ -13,4 +13,10 @@
     <color name="light_green">#E8F5E9</color>
     <color name="light_gray">#E0E0E0</color>
     <color name="light_red">#FFEBEE</color>
+    <color name="dark_blue_primary">#1A237E</color>
+    <color name="dark_blue_secondary">#283593</color>
+    <color name="dark_blue_background">#0B132B</color>
+    <color name="dark_blue_surface">#1E1E1E</color>
+    <color name="dark_blue_text">#FFFFFF</color>
+    <color name="dark_blue_text_secondary">#B3FFFFFF</color>
 </resources>

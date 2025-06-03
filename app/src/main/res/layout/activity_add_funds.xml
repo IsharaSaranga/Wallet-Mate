@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="?android:attr/colorBackground"
     tools:context=".AddFundsActivity">
 
     <androidx.core.widget.NestedScrollView
@@ -136,8 +136,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
-        android:background="@color/white"
-        app:backgroundTint="@color/light_green"
+        android:background="?attr/colorSurface"
+        app:backgroundTint="?attr/colorSurface"
         app:elevation="8dp"
         app:menu="@menu/bottom_nav_menu" />
 

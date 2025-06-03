@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white">
+    android:background="?android:attr/colorBackground">
 
     <!-- Content Wrapper with Padding -->
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -141,8 +141,8 @@
         android:id="@+id/bottomNavigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/white"
-        app:backgroundTint="@color/light_green"
+        android:background="?attr/colorSurface"
+        app:backgroundTint="?attr/colorSurface"
         app:elevation="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

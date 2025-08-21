@@ -1,4 +1,5 @@
 # 💰 Wallet Mate
+
 Wallet Mate is a mobile application for personal finance management, developed using Kotlin, Android Studio, and Room (SQLite).  
 It helps users track income, expenses, and budgets while providing clear visual insights into spending patterns.
 

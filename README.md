@@ -4,8 +4,6 @@ Wallet Mate is a mobile application for personal finance management, developed u
 
 It helps users track income, expenses, and budgets while providing clear visual insights into spending patterns.
 
-
-
 📱 Features
 
 - Transaction Management  

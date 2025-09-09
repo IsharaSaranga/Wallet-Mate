@@ -81,7 +81,7 @@
                 </androidx.constraintlayout.widget.ConstraintLayout>
             </androidx.cardview.widget.CardView>
 
-            <!-- Balance Card -->
+            <!-- Balance Card Section -->
             <androidx.cardview.widget.CardView
                 android:id="@+id/cardBalance"
                 android:layout_width="match_parent"
@@ -193,7 +193,7 @@
                 </androidx.constraintlayout.widget.ConstraintLayout>
             </androidx.cardview.widget.CardView>
 
-            <!-- Quick Actions Grid -->
+            <!-- Quick Actions Grid Section-->
             <androidx.cardview.widget.CardView
                 android:id="@+id/quickActionsCard"
                 android:layout_width="match_parent"

@@ -6,11 +6,11 @@
         <item name="colorPrimary">@color/dark_blue_primary</item>
         <item name="colorPrimaryVariant">@color/dark_blue_secondary</item>
         <item name="colorOnPrimary">@color/white</item>
-        <!-- Secondary brand color. -->
+        <!-- Secondary brand color. for theam -->
         <item name="colorSecondary">@color/dark_blue_secondary</item>
         <item name="colorSecondaryVariant">@color/dark_blue_primary</item>
         <item name="colorOnSecondary">@color/white</item>
-        <!-- Status bar color. -->
+        <!-- Status bar color. for theam -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Background colors -->
         <item name="android:colorBackground">@color/dark_blue_background</item>

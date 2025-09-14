@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="?android:attr/colorBackground">
 
-    <!-- Content Wrapper with Padding -->
+    <!-- Content Wrapper with Padding option -->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/contentWrapper"
         android:layout_width="match_parent"
